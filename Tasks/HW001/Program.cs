@@ -16,5 +16,3 @@ string X(int k1, int k2, int b1, int b2)
     return result;
 }
 Console.WriteLine(X(3, -4, -4, 3));
-
-
